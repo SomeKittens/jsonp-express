@@ -1,0 +1,20 @@
+{
+  "name": "jsonp-express",
+  "version": "0.0.1",
+  "author": "Randall 'SomeKittens' Koutnik <rkoutnik@gmail.com>",
+  "description": "Simple jsonp responses in express",
+  "main": "lib/jsonp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SomeKittens/jsonp-express"
+  },
+  "keywords": [
+    "express",
+    "jsonp",
+    "api"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.6"
+  }
+}
